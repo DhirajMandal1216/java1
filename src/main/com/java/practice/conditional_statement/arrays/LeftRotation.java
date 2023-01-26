@@ -41,7 +41,7 @@ public class LeftRotation {
 //simple program
 /*
 public class LeftRotation {
-    public static void main(String[] args) {
+public static void main(String[] args) {
     int A[]={1,2,3,5,6,8,9,70};
 
     //before rotation
@@ -61,8 +61,9 @@ public class LeftRotation {
     for(int i=0;i<A.length;i++){
         System.out.print(A[i]+" ");
         System.out.println();
-    }
+         }
   }
+
 }
 
 */
