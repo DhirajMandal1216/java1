@@ -18,8 +18,8 @@ public class Insertion {
         }
         A[index]=value;
         System.out.println("After insertion");
-        for(int i=0;i<n;i++){
-            System.out.print(A[i]+",");
+        for(int i=0;i<n;i++) {
+            System.out.print(A[i] + ",");
         }
 
 
